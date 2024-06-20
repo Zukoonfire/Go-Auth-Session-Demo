@@ -1,6 +1,3 @@
-# Go-Auth-Session-Demo
-# Go-Auth-Session-Demo
-
 A demo project showcasing user authentication and session management using Go.
 
 ## Table of Contents
