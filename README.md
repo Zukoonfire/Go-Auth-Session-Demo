@@ -7,7 +7,7 @@ A demo project showcasing user authentication and session management using Go.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [License](#license)
+
 
 ## Introduction
 
